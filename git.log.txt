@@ -1,3 +1,21 @@
+commit 30d911fb72fda2f0ecc7ce00d8783f7cb6509428
+Author: KowsarRahman <s3825159@student.rmit.edu.au>
+Date:   Sun May 29 23:00:04 2022 +1000
+
+    timing feature added
+
+commit 4471602e075157fa2e0e5974617f96e88fd20ea5
+Author: KowsarRahman <s3825159@student.rmit.edu.au>
+Date:   Sun May 29 22:49:01 2022 +1000
+
+    a very basic veriosn of both btindex and btsearch implemented
+
+commit 0d14660130816d3f22c18cd0eda3fdeaa6003b5b
+Author: KowsarRahman <s3825159@student.rmit.edu.au>
+Date:   Thu May 19 18:26:04 2022 +1000
+
+    git log added
+
 commit 781ce73e4ccc495de66fc264561c9489402651c0
 Author: KowsarRahman <s3825159@student.rmit.edu.au>
 Date:   Thu May 19 18:22:57 2022 +1000
